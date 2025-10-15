@@ -1,0 +1,1 @@
+Este é um projeto simple que aprendi durante o curso de Análise e Desenvolvimento de Sistemas. É o meu primeiro projeto enviado e servindo como teste para o meu aprendizado com ferramentas como Git e GitHub. 
